@@ -1,6 +1,6 @@
 # Figure-Skating-AR-Digital-Rulebook
 
-<h3>Mixed Reality Dev Days 2022 - Microsoft Hackathon</h3> <b>Theme: "A New Way to Solve an Old Problem"</b>
+<h3>*Mixed Reality Dev Days 2022 - Microsoft Hackathon</h3> <b>Theme: "A New Way to Solve an Old Problem"</b>
 </br></br>
 
 ![DevDays-EmailHeader-01](https://github.com/josette-seitz/Figure-Skating-AR-Digital-Rulebook/assets/7431704/bf0ec7e7-e8cb-4ff3-ae40-92eece5064bd)
